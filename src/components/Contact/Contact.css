@@ -1,0 +1,12 @@
+.contact {
+  flex-direction: column;
+}
+.contact_links {
+  display: flex;
+}
+.contact_links > a {
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  color: var(--clr-primary);
+  align-self: center;
+}
